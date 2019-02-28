@@ -40,4 +40,18 @@ Term-Document Matrix
 
 TF*IDF (Term Frequency/Inverse Document Frequency)
 
+Data Exploration:
+----------------
+
+Frequency Plot
+
+a. Data Frame ix
+
+b. Numpy Library (arrange)
+
+c. Matplotlib (Graphs)
+
+Lexical Dispersion Plot
+
+
 https://events.technologyreview.com/video/watch/deb-roy-mit-twitter-applied-ai-for-social-change/
